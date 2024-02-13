@@ -1,5 +1,7 @@
 # Linux daemon
 
+Linux daemon using [inotify](https://man7.org/linux/man-pages/man7/inotify.7.html) API. Inotify is used to monitor individual files, or to monitor directories.
+
 ![screenshot](daemon_screenshot.png)
 
 # Usage
